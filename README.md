@@ -1,1 +1,1 @@
-Hi! I'm André, a Ph.D. candidate in the [Secure Systems and Software Lab](https://ssllab.org) at the University of California, Irvine. Find more on [my website](https://andreroesti.com).
+Hi! I'm André. I received my Ph.D. and M.S. in Computer Science from the University of California, Irvine, advised by Prof. Dr. Michael Franz. My research interests broadly span compilers for hardware accelerators, systems programming and security.
